@@ -1,0 +1,2 @@
+# auto_web
+替换自己谷歌浏览器的Chromedriver.exe和LICENSE.chromedriver
